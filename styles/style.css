@@ -1,1 +1,18 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(129deg, #aabbca, #ffacba);
+  width: 100vw;
+  height: 100vh;
+  padding-top: 8rem;
+}
+
+.container {
+  width: 70%;
+  height: 60vh;
+  border: 1px solid black;
+}/*# sourceMappingURL=style.css.map */
